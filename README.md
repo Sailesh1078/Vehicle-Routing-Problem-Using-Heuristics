@@ -28,7 +28,7 @@ This Python program provides a solution to the Vehicle Routing Problem (VRP) usi
 
 ```
 
-## Example
+## Example Usage
 
 ```python
 N = 7
